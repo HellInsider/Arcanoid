@@ -1,6 +1,6 @@
 # Arcanoid
 
-Game of genre Arcanoid in Doom 4 & Animal crossing setting.
+Game of genre Arcanoid in Doom 4 & Animal crossing setting.   
 Implemented main mechanics and bonuses.   
 
 Stack: C++, SFML.   
